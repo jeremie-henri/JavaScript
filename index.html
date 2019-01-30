@@ -4,6 +4,12 @@
 		<script>
 			$(document).ready(function() {
 
+					let relance = function () {
+$("h1").fadeIn(100);
+$("h1").fadeOut(100, relance);
+};
+$("h1").fadeOut(100, relance);
+
     			$(document).mousemove(function(e) {
  					pointer = $('<img>').attr({'src':'1.png'});
 
@@ -22,8 +28,8 @@
 		</script>
 	</head>
 	<body>
-		<h1>Hello</h1>
-		<p>salut</p>
-		<h2>There</h2>
+		<h1>/!\ Ne bouge pas la souris /!\</h1>
+		<p>il te regarde</p>
+		<h2>il est partout</h2>
 </body>
 </html>
