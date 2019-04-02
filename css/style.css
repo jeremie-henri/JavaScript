@@ -1,0 +1,112 @@
+#container_1{
+    margin-top: 15%;
+}
+
+#titre{
+    color: white;
+    text-shadow: 0 0 100px #000;
+}
+
+#titre2{
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 100px #000;
+}
+
+
+p{
+    color: white;
+    text-shadow: 0 0 100px #000;
+}
+
+#btn_login{
+    color: white;
+    background-color: #0000008f;
+    margin-top: 10px;
+}
+
+#btn_register{
+    margin-left: 1%;
+     color: white;
+     background-color: #0000008f;
+     margin-top: 10px;
+ }
+
+#searchbar{
+    width: 97% !important;
+    height: 40px;
+    text-align: center;
+}
+
+#btn_logout{
+    margin-right: auto;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: auto;
+    margin-bottom: 42px;
+    opacity: 0.5;
+}
+
+#player_info {
+    text-align: center;
+    width: 81%;
+    background-color: rgba(0, 0, 0, 0.73);
+    border-radius: 15px;
+    margin-top: 65px;
+    margin-bottom: 100px;
+}
+
+#profil_picture{
+    margin-top: 26px;
+}
+
+h6{
+    margin-top: 5px;
+    color: white;
+}
+
+p{
+    color: white;
+}
+#status{
+    height: 37px;
+}
+
+#info_box{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgba(128, 128, 128, 0);
+}
+
+.col-sm-4{
+    color: white;
+    padding-bottom: 10px;
+
+}
+
+#btn_match{
+    margin-top: 46px;
+    height: 46px;
+    border-color: #151516;
+    background-color: #26262780;
+    margin-right: auto;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: auto;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+#img_match{
+    height: 15%;
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.item{
+    height: 10%;
+    margin-top: 26px;
+    margin-right: 5px;
+}
